@@ -74,7 +74,7 @@
     "autoprefixer": "^9.7.4",
     "babel-eslint": "^10.0.3",
     "bread-compressor-cli": "^1.1.0",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.29.3",
     "chokidar-cli": "^2.1.0",
     "connect-browser-sync": "^2.1.0",
     "del-cli": "^3.0.0",
