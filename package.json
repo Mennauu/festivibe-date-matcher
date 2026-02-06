@@ -85,7 +85,7 @@
     "eslint-plugin-simple-import-sort": "^5.0.1",
     "eslint-utils": "^2.0.0",
     "fs": "0.0.1-security",
-    "gulp": "^3.9.1",
+    "gulp": "^5.0.1",
     "gulp-cli": "^2.2.0",
     "gulp-rev": "^9.0.0",
     "gulp-rev-delete-original": "^0.2.3",
